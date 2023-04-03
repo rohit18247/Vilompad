@@ -1,0 +1,5 @@
+Organism,Mismatch Value ,Number of Genomic Palindromes Detected ,Genome Length (in mb),Time (in seconds),Normalize Value 
+Fungi_Arabidopsis_Thaliana,0,1464055,245,85,0.00597
+SARS-CoV-2,0,1650,0.0299,7,0.05518
+Salmonella_Enterica_Subsp,0,314288,4.8,21,0.06547
+Adineta_Vaga,0,7094954,135,204,0.05255
